@@ -156,7 +156,6 @@ Securitisation-Risk-Dashboard
 
 Engineering Student | Data Analytics Enthusiast
 
-GitHub: https://github.com/Shrihari-Kulkarni04
 
 ---
 
